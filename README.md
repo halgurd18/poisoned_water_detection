@@ -9,6 +9,6 @@ The equivalent Smartphone embedded Wi-Fi chipsets are shown in img/p2.jpg
 
 The amplitude and phase measurements of the Wi-Fi CSI data is selected as vectors features!
 
-Each of these vectors includes 64 feature values, i.e. for amolitude has 64 values and for phase has 64 values.
+Each of these vectors includes 64 feature values, i.e. the amplitude vector has 64 values and phase vector has 64 values.
 
 The method provide accurate classification result starts from 82% (via k-NN) up to 92% (via Ensemble)
