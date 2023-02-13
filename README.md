@@ -12,3 +12,5 @@ The amplitude and phase measurements of the Wi-Fi CSI data are selected as vecto
 Each of these vectors includes 64 feature values, i.e. the amplitude vector has 64 values, and the phase vector has 64 values.
 
 The method provides accurate classification results starting from 82% (via k-NN) up to 92% (via Ensemble)
+
+This research and dataset is supported by Koya University (https://www.koyauniversity.org/)
