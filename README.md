@@ -13,4 +13,4 @@ Each of these vectors includes 64 feature values, i.e. the amplitude vector has 
 
 The method provides accurate classification results starting from 82% (via k-NN) up to 92% (via Ensemble)
 
-This research and dataset is supported by Koya University (https://www.koyauniversity.org/)
+This research and dataset is supported and acreated by a group of researchers from Koya University (https://www.koyauniversity.org/)
