@@ -17,4 +17,5 @@ This research and dataset is supported and created by a group of researchers fro
 https://www.koyauniversity.org/ku/node/457
 
 If anyone want to use the dataset and make further research, kindly, should cite the paper as the following:
+<br> 
 Maghdid, H.S., Salah, S.R.H., Taher, A.H., Bayram, H.M., Sabir, A.T., Kaka, K.N., Taher, S.G., Abdulrahman, L.S., Al-Talabani, A.K., Asaad, S.M. and Asaad, A., 2023. A Novel Poisoned Water Detection Method Using Smartphone Embedded Wi-Fi Technology and Machine Learning Algorithms. arXiv preprint arXiv:2302.07153.
